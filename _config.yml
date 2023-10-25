@@ -1,5 +1,3 @@
-remote_theme: mundana-theme-jekyll
-
 # Site
 name: 'David Suta'
 description: 'David Suta page for resume and projects'
@@ -12,6 +10,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 include: ["_pages"]
 permalink: /:title/
+remote_theme: 'wowthemesnet/mundana-theme-jekyll'
 
 # Plugins
 plugins: 

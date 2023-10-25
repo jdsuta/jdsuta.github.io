@@ -1,31 +1,10 @@
 ---
-title: "Home Page"
+title: "Projects"
 layout: default
-pagination:
-    enabled: true
-description: "Home page designed by David Suta"
+permalink: "/projects.html"
 ---
 
 <div class="container">
-
-{% if page.url == "/" %}
-    
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem position-relative" style="background-color: transparent;">
-    <div class="pl-4 pr-0 h-100 tofront">
-        <div class="row">
-            <div class="col-md-12 pt-0 pb-6">
-                <p class="mb-3 lead"><br>
-                    Hi There!<br><br>
-                    Welcome to my personal page! I'm excited to share a glimpse of my world with you. 
-                    Whether you're here to learn about my professional journey, interests, or just to connect, I'm thrilled to have you along.
-                    Explore the various sections to get to know me better and feel free to reach out – I'm always eager to connect with like-minded individuals. 
-                    <br><br>
-                    Thank you for stopping by!
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
@@ -145,100 +124,4 @@ description: "Home page designed by David Suta"
         
     </div>
     
-</div>
-    
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-<!-- {% for post in site.posts %} 
-{% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-    <div class="pl-4 pr-0 h-100 tofront">
-        <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{post.title}}</h1>
-                <p class="mb-3 lead">
-                    Greetings! I am **David Suta** from the vibrant city of Bogota, Colombia. While Spanish is my mother tongue, I've also developed a strong affinity for English , improving it during my time in London. Holding a degree in mechatronics engineering, I am passionate about technology and innovation.
-
-In my leisure time, I engage in a range of activities. Whether it's sweating it out at the gym, embarking on sightseeing adventures, enjoying a variety of culinary delights, or exploring the latest in technological advancements, I find joy in all these endeavours. The company of friends and like-minded individuals further enriches my life.
-
-This website, built using [Jekyll][jekyll-docs] and hosted on [GitHub Pages][github-pages],provides a window into my world. Here, you will gain insights into my professional undertakings, personal interests, and snapshots of my life's journey.
-
-Please feel free to reach out. Wishing you an amazing day ahead!
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[github-pages]: https://pages.github.com/
-                </p>
-            </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
-            </div>
-        </div>
-    </div>
-</div>  -->
-<!-- {% endif %}
-{% endfor %} -->
-
-
-
-{% endif %} <!--endif page url is / -->
-
-<!-- Please remove comments this ones when adding more articles! -->
-
-
-
-
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-    
-<!-- <div class="row mt-3">
-   
-    <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-        
-
-        {% for post in paginator.posts %}
-        
-            {% include main-loop-card.html %}
-        
-        {% endfor %}
-        
-        <div class="mt-5"> -->
-         <!-- Pagination links -->
-            <!-- {% if paginator.total_pages > 1 %}
-            <ul class="pagination"> 
-              {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
-              {% else %}
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              {% endif %}
-
-              {% for page in (1..paginator.total_pages) %}
-                {% if page == paginator.page %}
-                <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
-                {% elsif page == 1 %}
-                <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
-                {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                {% endif %}
-              {% endfor %}
-
-              {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
-              {% else %}
-                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
-              {% endif %}
-            </ul>
-            {% endif %}      
-        </div>
-        
-    </div>
-    
-    <div class="col-md-4">
-        {% include sidebar-featured.html %}    
-    </div>
-    
-</div> -->
-
-
-
 </div>

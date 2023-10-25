@@ -1,3 +1,5 @@
+remote_theme: mundana-theme-jekyll
+
 # Site
 name: 'David Suta'
 description: 'David Suta page for resume and projects'

@@ -1,7 +1,8 @@
-remote_theme: mundana-theme-jekyll
+remote_theme: 'mundana-theme-jekyll'
 
 # Site
 name: 'David Suta'
+title: 'David Suta'
 description: 'David Suta page for resume and projects'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'

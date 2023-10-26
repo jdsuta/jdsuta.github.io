@@ -51,7 +51,7 @@ defaults:
     values:
       layout: post
       author: David Suta
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/David_Suta.jpg
       
   # all pages
   - scope:

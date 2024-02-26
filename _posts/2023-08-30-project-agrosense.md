@@ -4,7 +4,7 @@ title:  "AgroSense"
 author: david
 categories: [ Projects ]
 image: assets/images/agrosense-plan.jpeg
-tags: [projects, iot ]
+tags: [projects, iot, flask ]
 ---
 
 AgroSense was my final project for [CS50x Harvard's][cs50x-harvard]{:target="_blank"} course. It is an IoT application that collects and monitors data from plants using an Arduino-based board (Intel Galileo), transmitting it to a web app for processing. The aim is to improve plant care and management by delivering real-time data and alerts.

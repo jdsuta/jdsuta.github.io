@@ -4,10 +4,10 @@ title:  "Finance CS50"
 author: david
 categories: [ Projects ]
 image: assets/images/FinanceCS50.png
-tags: [projects, miscellaneous ]
+tags: [projects, miscellaneous, flask ]
 ---
 
-TFinance, is a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you "buy" and “sell” stocks by querying for stocks’ prices. It was part of the CS50 course taken.
+Finance, is a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you "buy" and “sell” stocks by querying for stocks’ prices. It was part of the CS50 course taken.
 
 It was used an API built by [IEX][iex]{:target="_blank"} a financial data delivery platform, to consult stock prices. In general, the goal of the app was to learn how to use flask, sqlite3, jinja and how to make requests (API Calls) using forms. 
 

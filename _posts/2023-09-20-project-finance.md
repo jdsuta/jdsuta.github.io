@@ -7,9 +7,12 @@ image: assets/images/FinanceCS50.png
 tags: [projects, miscellaneous ]
 ---
 
-Finance, is a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you "buy" and “sell” stocks by querying for stocks’ prices. It was part of the CS50 course taken.
+TFinance, is a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you "buy" and “sell” stocks by querying for stocks’ prices. It was part of the CS50 course taken.
 
 It was used an API built by [IEX][iex]{:target="_blank"} a financial data delivery platform, to consult stock prices. In general, the goal of the app was to learn how to use flask, sqlite3, jinja and how to make requests (API Calls) using forms. 
+
+<!-- to insert images -->
+<!-- ![Alt Text](/assets/images/1.jpg){:width="32px"} -->
 
 ### Finance in Action
 

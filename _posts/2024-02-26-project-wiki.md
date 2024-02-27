@@ -3,19 +3,20 @@ layout: post
 title:  "Wikipedia"
 author: david
 categories: [ Projects ]
-image: assets/images/agrosense-plan.jpeg
+image: assets/images/wiki.png
 tags: [projects, django ]
+comments: true
 ---
 
-Wikipedia is a project built using the **Django** framework. It serves as a free online encyclopedia with various entries on diverse topics, each accessible through its respective page. For example, visiting https://en.wikipedia.org/wiki/HTML displays the Wikipedia entry for HTML, with the requested page name specified in the route `/wiki/HTML`. Wikipedia stores entries in a human-friendly markup language **Markdown**, specifically Wikitext. However, when a user views an entry, the Markdown is converted into HTML for display, making the writing and editing process more user-friendly.
+Wikipedia is a project built using the **Django** framework. It serves as a free online encyclopedia with various entries on diverse topics, each accessible through its respective page. For example, visiting `https://en.wikipedia.org/wiki/HTML`  displays the Wikipedia entry for HTML, with the requested page name specified in the route `/wiki/HTML`. Wikipedia stores entries in a human-friendly markup language **Markdown**, specifically Wikitext. However, when a user views an entry, the Markdown is converted into HTML for display, making the writing and editing process more user-friendly.
 
 ### Wikipedia in Action
 
 Discover the capabilities of Wikipedia through this video presentation:
 
-<!-- <p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/QdPggtvKLwg" frameborder="0" allowfullscreen></iframe>
-</p> -->
+<p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4muNAK4nkGQ" frameborder="0" allowfullscreen></iframe>
+</p>
 
 ### Personal Insights
 

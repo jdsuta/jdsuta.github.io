@@ -56,3 +56,8 @@ Clicking “Random Page” in the sidebar should take the user to a random encyc
 
 #### Markdown to HTML Conversion
 On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the `python-markdown2` package to perform this conversion, installable via `pip3 install markdown2`.
+
+
+To check code and implementation please check [github project Wiki][github-wiki]{:target="_blank"} 
+
+[github-wiki]: https://github.com/jdsuta/projects/tree/main/wiki

@@ -4,7 +4,7 @@ title:  "AgroSense"
 author: david
 categories: [ Projects ]
 image: assets/images/agrosense-plan.jpeg
-tags: [projects, iot, flask ]
+tags: [projects, iot, flask, featured]
 comments: true
 ---
 

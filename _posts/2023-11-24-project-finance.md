@@ -4,7 +4,7 @@ title:  "Finance CS50"
 author: david
 categories: [ Projects ]
 image: assets/images/FinanceCS50.png
-tags: [projects, miscellaneous, flask ]
+tags: [projects, miscellaneous, flask, featured ]
 comments: true
 ---
 

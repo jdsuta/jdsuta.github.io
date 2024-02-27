@@ -4,7 +4,7 @@ title:  "Wikipedia"
 author: david
 categories: [ Projects ]
 image: assets/images/wiki.png
-tags: [projects, django ]
+tags: [projects, django, featured ]
 comments: true
 ---
 

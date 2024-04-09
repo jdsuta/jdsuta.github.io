@@ -3,7 +3,7 @@ layout: post
 title:  "Commerce"
 author: david
 categories: [ Projects ]
-image: assets/images/commerce.png
+image: assets/images/commerce.jpg
 tags: [projects, django, featured ]
 comments: true
 ---

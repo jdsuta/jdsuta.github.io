@@ -54,7 +54,7 @@ Below is an example of the overlay style:
 ```
 Understanding the [z-index][z-index]{:target="_blank"} property was crucial, along with catching the difference between absolute and relative positioning and how they function. 
 
-During troubleshooting, I utilized VS Code. Additionally, I created a virtual environment and a debugger launch profile (https://code.visualstudio.com/docs/python/tutorial-django) for efficient debugging.
+During troubleshooting, I utilized VS Code. Additionally, I created a virtual environment and a debugger launch profile [https://code.visualstudio.com/docs/python/tutorial-django][debug-django]{:target="_blank"} for efficient debugging.
 
 
 ### Specification for this project:
@@ -98,3 +98,4 @@ To check code and implementation please check [github project Commerce][github-c
 
 [github-commerce]: https://github.com/jdsuta/projects/tree/main/commerce
 [z-index]: https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+[debug-django]: https://code.visualstudio.com/docs/python/tutorial-django

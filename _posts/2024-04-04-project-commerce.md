@@ -93,9 +93,12 @@ Users should be able to visit a page that displays a list of all listing categor
 
 Via the Django admin interface, a site administrator should be able to view, add, edit, and delete any listings, comments, and bids made on the site.
 
-
+Specification and project done by:  [CS50 WEB - Commerce][cs50web-commerce]{:target="_blank"} 
 To check code and implementation please check [github project Commerce][github-commerce]{:target="_blank"} 
+
+ChatGPT was used to improve grammar and coherence of this article
 
 [github-commerce]: https://github.com/jdsuta/projects/tree/main/commerce
 [z-index]: https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
 [debug-django]: https://code.visualstudio.com/docs/python/tutorial-django
+[cs50web-commerce]: https://cs50.harvard.edu/web/2020/projects/2/commerce/

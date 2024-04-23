@@ -17,7 +17,7 @@ Emails can be marked as read or unread and can be archived or unarchived. This f
 Discover the capabilities of Mail through this video presentation:
 
 <p>
-<iframe width="70%" height="315" src="https://youtu.be/Cxp1w1u0n-8" frameborder="0" allowfullscreen></iframe>
+<iframe width="70%" height="315" src="https://www.youtube.com/embed/Cxp1w1u0n-8" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ### Personal Insights

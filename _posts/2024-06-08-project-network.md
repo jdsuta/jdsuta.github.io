@@ -3,7 +3,7 @@ layout: post
 title:  "Network"
 author: david
 categories: [ Projects ]
-image: assets/images/mail.png
+image: assets/images/network.png
 tags: [projects, react, featured ]
 comments: true
 ---
